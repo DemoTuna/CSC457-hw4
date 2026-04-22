@@ -1,0 +1,311 @@
+body {
+    background-color: rgba(226, 214, 237, 0.731);
+    font-family: 'Times New Roman', Arial;
+
+}
+
+footer {
+    background-color: rgb(208, 224, 239);
+    height: 9em;
+    width: 100%;
+    margin: 0 0%;
+}
+
+footer#indexFooter {
+    background-color: rgb(208, 224, 239);
+    height: 12em;
+    width: 100%;
+    margin: 0 0%;
+}
+
+h1 {
+    color: darkslateblue;
+    font-size: xx-large;
+    text-transform: capitalize;
+    margin: 0 18.5%;
+    height: 1em;
+    width: 8em;
+}
+
+h2 {
+    color: darkslateblue;
+    font-size: x-large;
+    text-transform: capitalize;
+    margin: 0 18.5%;
+    height: 1em;
+    width: 50em;
+
+}
+
+p {
+    color: rgb(77, 168, 108);
+    font-size: large;
+    text-align: justify;
+    font-weight: 400;
+    font-style: normal;
+    margin: 1em 15em 0.5em 15em;
+    padding: 0em 1em 0em 1em;
+
+}
+
+
+p#aboutMe {
+    height: 13em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 2em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+}
+
+p#backgroundInterests {
+    height: 6em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+}
+
+p#education {
+    height: 2em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+}
+
+blockquote#motherWisdom {
+    height: 2em;
+    width: 40em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 26em;
+    background-color: rgb(215, 200, 231);
+
+}
+
+p#technicalBackground {
+    height: 6em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+
+}
+
+p#salma {
+    height: 16em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+}
+
+p#seamCarving {
+    height: 11em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 15em;
+    background-color: rgb(215, 200, 231);
+}
+
+p#projects {
+    margin: 1em 15em 0.5em 23em;
+}
+
+section#list {
+    margin: 1em 15em 0.5em 15em;
+}
+
+pre#reachMe {
+    margin: 1em 15em 0.5em 15em;
+}
+
+blockquote {
+    height: 2em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 1em 0em 1em;
+    margin: 1em 15em 0.5em 25em;
+}
+
+a#contactMeImg {
+    margin: 0 44%;
+}
+
+figure#salmaLogoImg {
+    padding: 1em 1em 0em 1em;
+    margin: 1em 15em 0.5em 12em;
+    text-align: center;
+}
+
+figure#seamCarvingImg {
+    padding: 1em 1em 0em 1em;
+    margin: 1em 15em 0.5em 12em;
+    text-align: center;
+}
+
+iframe.pdfs {
+    padding: 1em 1em 0em 1em;
+    margin: 1em 15em 0.5em 21em;
+    text-align: center;
+}
+
+
+a#readMoreImg {
+    margin: 0 44%;
+}
+
+a.diveDeeper {
+    margin: 0 44%;
+}
+
+a#emailMe {
+    margin: 0 44%
+}
+
+img#iPhone_icon {
+    padding: 0em 1em 0em 6.5em;
+}
+
+img#building_icon {
+    padding: 0em 1em 0em 10em;
+}
+
+img#mail_box_icon {
+    padding: 0em 1em 0em 12em;
+
+}
+
+
+pre {
+    color: rgb(77, 168, 108);
+    font-family: 'Times New Roman', Arial;
+    font-size: large;
+    text-align: justify;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+dl {
+    text-align: justify;
+    height: 13em;
+    width: 50em;
+    box-sizing: content-box;
+    padding: 1em 3em 1em 2em;
+    border-style: inset;
+    border-radius: 1em;
+    margin: 1em 15em 0.5em 17em;
+    background-color: rgb(215, 200, 231);
+
+}
+
+dd {
+    color: rgb(77, 168, 108);
+    font-family: 'Times New Roman', Arial;
+    font-size: large;
+
+}
+
+dt {
+    color: rgb(48, 26, 70);
+    font-family: 'Times New Roman', Arial;
+    font-size: large;
+    font-style: obliques;
+    font-weight: 600;
+}
+
+header nav {
+    background-color: rgb(208, 224, 239);
+    color: darkslateblue;
+    text-align: center;
+    font-size: medium;
+    font-family: Arial;
+    font-weight: 900;
+    font-style: normal;
+    padding: 0.5em;
+    text-decoration: none;
+    word-spacing: 2em;
+    text-shadow: .2em .2em .2em rgb(147, 146, 146);
+
+}
+
+
+header nav a {
+    font-family: 'Trebuchet MS', Arial;
+    text-decoration: none;
+    color: rgb(107, 97, 167);
+}
+
+ol li {
+    color: rgb(139, 97, 139);
+    font-family: 'Times New Roman', Arial;
+    font-size: large;
+    text-align: left;
+    font-weight: bold;
+    font-style: normal;
+    list-style-type: upper-roman;
+    list-style-position: inside;
+
+
+}
+
+ul li {
+    color: rgb(152, 71, 109);
+    font-family: 'Times New Roman', Arial;
+    font-size: large;
+    text-align: left;
+    font-weight: 400;
+    font-style: normal;
+    list-style-type: circle;
+    list-style-position: inside;
+
+}
+
+a:link {
+    color: rgb(19, 0, 128);
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: rgb(182, 117, 188);
+}
+
+header nav a:link {
+    color: darkslateblue;
+}
+
+header nav a:visited {
+    color: darkslateblue;
+}
+
+button {
+    background-color: rgb(234, 225, 242);
+    border: 0em;
+    margin: 0 43.5%;
+
+
+}
